@@ -1,7 +1,7 @@
 
 
 .leftcontainer {
-    position: relative;
+    position: absolute;
     width: 20%;
     height: 100px;
     background-color: aqua;
