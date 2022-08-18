@@ -1,0 +1,31 @@
+header {
+    background-color: blueviolet;
+}
+.leftcontainer {
+    position: relative;
+    width: 20%;
+    height: 100px;
+    background-color: aqua;
+    margin-top: 0;
+    margin-left: 0;
+}
+.middlecontainer {
+    position: absolute;
+    display: inline;
+    width: 50%;
+    height: 100px;
+    margin-left: 20%;
+    margin-top: 0;
+    background-color: beige;
+
+}
+.rightcontainer {
+    position: absolute;
+    display: inline;
+    width: 30%;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: 0;
+    background-color: red;
+
+}
