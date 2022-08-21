@@ -16,6 +16,9 @@
     margin-left: 20%;
     margin-top: 0;
     background-color: beige;
+    text-align: center;
+    text-shadow: 3px;
+    font-family: cursive;
 
 }
 .rightcontainer {
@@ -43,11 +46,30 @@
     color: black;
 }
 .main{
-    position: absolute;
+    position: relative;
     margin-top: 90px;
+    float: 80%;
+    float:left;
+
+}
+.maincon{
+    position: relative;
+    margin-top: 0px;
     float: 80%;
     float:left;
     background-color:skyblue;
     padding: 0;
     
 }
+h2 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    float: left;
+    }
+#dp {
+        position: absolute;
+        margin-top: 350px;
+        margin-left: 50px;
+        float: left;
+        }
