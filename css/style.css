@@ -52,6 +52,17 @@
     float:left;
 
 }
+.menu {
+    position: relative;
+    margin-top: 90px;
+    float: 20%;
+    margin-right: 0;
+    float:right;
+    background-color: red;
+    height: 550px;
+    width: 7.95%;
+    line-height: 3;
+}
 .maincon{
     position: relative;
     margin-top: 0px;
@@ -59,17 +70,24 @@
     float:left;
     background-color:skyblue;
     padding: 0;
-    
 }
+
 h2 {
     position: absolute;
-    margin-top: 300px;
+    margin-top: 150px;
     margin-left: 50px;
     float: left;
     }
 #dp {
         position: absolute;
-        margin-top: 350px;
+        margin-top: 200px;
         margin-left: 50px;
         float: left;
+        line-height: 1.5;
+        }
+        .leftmenu{
+            display: list-item;
+            position: relative;
+
+            
         }
